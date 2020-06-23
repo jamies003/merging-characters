@@ -1,0 +1,1 @@
+looping over the characters of string
